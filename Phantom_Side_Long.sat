@@ -1,0 +1,264 @@
+700 0 1 0           
+30 Autodesk Translation Framework 20 ASM 228.6.0.65535 NT 24 Thu Mar 30 18:47:30 2023 
+1 9.999999999999999547e-07 1.000000000000000036e-10 
+body $1 -1 $-1 $2 $-1 $3 #
+rgb_color-st-attrib $-1 -1 $4 $-1 $0 0.627450980392156854 0.627450980392156854 0.627450980392156854 #
+lump $-1 -1 $-1 $-1 $5 $0 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $1 $0 @20 Timestamp_attrib_def 1 1680088589986660 #
+shell $-1 -1 $-1 $-1 $-1 $6 $-1 $2 #
+face $7 -1 $-1 $8 $9 $5 $-1 $10 reversed single #
+DXID-attrib $-1 -1 $-1 $-1 $6 @10 ASM ENTITY @1 0 #
+face $11 -1 $-1 $12 $13 $5 $-1 $14 reversed single #
+loop $-1 -1 $-1 $-1 $15 $6 #
+plane-surface $-1 -1 $-1 416.0000000000001137 0 8 -1 -0 -0 0 10 0 forward_v I I I I #
+DXID-attrib $-1 -1 $-1 $-1 $8 @10 ASM ENTITY @1 1 #
+face $16 -1 $-1 $17 $18 $5 $-1 $19 reversed single #
+loop $-1 -1 $-1 $-1 $20 $8 #
+plane-surface $-1 -1 $-1 424.0000000000000568 158 8 1 0 0 -0 -10 -0 forward_v I I I I #
+coedge $21 -1 $-1 $22 $23 $24 $25 reversed $9 $-1 #
+DXID-attrib $-1 -1 $-1 $-1 $12 @10 ASM ENTITY @1 2 #
+face $26 -1 $-1 $27 $28 $5 $-1 $29 reversed single #
+loop $-1 -1 $-1 $-1 $30 $12 #
+plane-surface $-1 -1 $-1 420.0000000000000568 79 4 0 0 -1 -10 0 0 forward_v I I I I #
+coedge $31 -1 $-1 $32 $33 $34 $35 reversed $13 $-1 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $15 @17 sketch_attrib_def 1 1 3 @13 131 0 0 0 1 1 #
+coedge $-1 -1 $-1 $36 $15 $37 $38 reversed $9 $-1 #
+coedge $-1 -1 $-1 $15 $36 $39 $40 reversed $9 $-1 #
+coedge $-1 -1 $-1 $41 $42 $15 $25 forward $43 $-1 #
+edge $-1 -1 $-1 $44 -3.950000000000000178 $45 11.85000000000000142 $24 $46 forward @7 unknown #
+DXID-attrib $-1 -1 $-1 $-1 $17 @10 ASM ENTITY @1 3 #
+face $47 -1 $-1 $48 $49 $5 $-1 $50 reversed single #
+loop $-1 -1 $-1 $-1 $51 $17 #
+plane-surface $-1 -1 $-1 16 158 8 1 0 0 0 -10 0 forward_v I I I I #
+coedge $-1 -1 $-1 $52 $53 $54 $55 reversed $18 $-1 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $20 @17 sketch_attrib_def 1 1 3 @13 133 0 0 0 1 1 #
+coedge $-1 -1 $-1 $54 $20 $56 $57 reversed $13 $-1 #
+coedge $-1 -1 $-1 $20 $54 $58 $59 reversed $13 $-1 #
+coedge $-1 -1 $-1 $60 $61 $20 $35 forward $62 $-1 #
+edge $-1 -1 $-1 $63 -3.949999999999999289 $64 11.85000000000000142 $34 $65 forward @7 unknown #
+coedge $-1 -1 $-1 $23 $22 $66 $67 forward $9 $-1 #
+coedge $-1 -1 $-1 $68 $69 $22 $38 forward $70 $-1 #
+edge $-1 -1 $-1 $71 0 $44 0.4000000000000000222 $37 $72 forward @7 unknown #
+coedge $-1 -1 $-1 $73 $74 $23 $40 forward $75 $-1 #
+edge $-1 -1 $-1 $45 -0.4000000000000000222 $76 0 $39 $77 forward @7 unknown #
+coedge $-1 -1 $-1 $78 $24 $74 $79 forward $43 $-1 #
+coedge $-1 -1 $-1 $24 $78 $68 $80 forward $43 $-1 #
+loop $-1 -1 $-1 $-1 $24 $81 #
+vertex $-1 -1 $-1 $25 $82 #
+vertex $-1 -1 $-1 $25 $83 #
+straight-curve $-1 -1 $-1 416.0000000000001137 39.5 8 0 10 0 I I #
+DXID-attrib $-1 -1 $-1 $-1 $27 @10 ASM ENTITY @1 4 #
+face $84 -1 $-1 $85 $86 $5 $-1 $87 reversed single #
+loop $-1 -1 $-1 $-1 $88 $27 #
+plane-surface $-1 -1 $-1 8 0 8 -1 0 0 0 10 0 forward_v I I I I #
+coedge $89 -1 $-1 $90 $91 $78 $92 reversed $28 $-1 #
+coedge $-1 -1 $-1 $66 $30 $73 $93 reversed $18 $-1 #
+coedge $-1 -1 $-1 $30 $66 $69 $94 reversed $18 $-1 #
+coedge $-1 -1 $-1 $33 $32 $30 $55 forward $13 $-1 #
+edge $-1 -1 $-1 $95 -15.80000000000000071 $96 -0 $54 $97 forward @7 unknown #
+coedge $-1 -1 $-1 $98 $73 $32 $57 forward $75 $-1 #
+edge $-1 -1 $-1 $95 0 $63 0.4000000000000000222 $56 $99 forward @7 unknown #
+coedge $-1 -1 $-1 $69 $100 $33 $59 forward $70 $-1 #
+edge $-1 -1 $-1 $64 -0.4000000000000000222 $96 0 $58 $101 forward @7 unknown #
+coedge $-1 -1 $-1 $102 $34 $100 $103 forward $62 $-1 #
+coedge $-1 -1 $-1 $34 $102 $98 $104 forward $62 $-1 #
+loop $-1 -1 $-1 $-1 $34 $105 #
+vertex $-1 -1 $-1 $35 $106 #
+vertex $-1 -1 $-1 $35 $107 #
+straight-curve $-1 -1 $-1 424.0000000000000568 118.5000000000000142 8 0 -10 0 I I #
+coedge $-1 -1 $-1 $53 $52 $36 $67 reversed $18 $-1 #
+edge $-1 -1 $-1 $71 -15.80000000000000071 $76 -0 $36 $108 forward @7 unknown #
+coedge $-1 -1 $-1 $109 $37 $42 $80 reversed $70 $-1 #
+coedge $-1 -1 $-1 $37 $58 $53 $94 forward $70 $-1 #
+loop $-1 -1 $-1 $-1 $58 $110 #
+vertex $-1 -1 $-1 $38 $111 #
+straight-curve $-1 -1 $-1 416.0000000000001137 0 4 0 0 10 I I #
+coedge $-1 -1 $-1 $56 $39 $52 $93 forward $75 $-1 #
+coedge $-1 -1 $-1 $39 $112 $41 $79 reversed $75 $-1 #
+loop $-1 -1 $-1 $-1 $56 $113 #
+vertex $-1 -1 $-1 $67 $114 #
+straight-curve $-1 -1 $-1 416.0000000000001137 158 4 0 0 -10 I I #
+coedge $-1 -1 $-1 $42 $41 $51 $92 forward $43 $-1 #
+edge $-1 -1 $-1 $45 1.599999999999994316 $115 41.60000000000000142 $74 $116 forward @7 unknown #
+edge $-1 -1 $-1 $117 1.600000000000000089 $44 41.60000000000000853 $68 $118 forward @7 unknown #
+face $119 -1 $-1 $105 $43 $5 $-1 $120 forward single #
+point $-1 -1 $-1 416.0000000000001137 0 8 #
+point $-1 -1 $-1 416.0000000000001137 158 8 #
+DXID-attrib $-1 -1 $-1 $-1 $48 @10 ASM ENTITY @1 5 #
+face $121 -1 $-1 $81 $122 $5 $-1 $120 forward single #
+loop $-1 -1 $-1 $-1 $123 $48 #
+plane-surface $-1 -1 $-1 12.00000000000000178 79 4 0 0 -1 -10 0 0 forward_v I I I I #
+coedge $124 -1 $-1 $125 $126 $127 $128 reversed $49 $-1 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $51 @17 sketch_attrib_def 1 1 3 @13 123 0 1 0 1 1 #
+coedge $-1 -1 $-1 $129 $51 $112 $130 reversed $28 $-1 #
+coedge $-1 -1 $-1 $51 $129 $109 $131 reversed $28 $-1 #
+edge $-1 -1 $-1 $115 -3.949999999999999289 $117 11.85000000000000142 $78 $132 forward @7 unknown #
+edge $-1 -1 $-1 $76 -1 $95 -0.2000000000000028422 $73 $133 forward @7 unknown #
+edge $-1 -1 $-1 $96 -21.40000000000000213 $71 -20.60000000000000497 $69 $134 forward @7 unknown #
+vertex $-1 -1 $-1 $57 $135 #
+vertex $-1 -1 $-1 $55 $136 #
+straight-curve $-1 -1 $-1 424.0000000000000568 0 4 -0 -10 -0 I I #
+coedge $-1 -1 $-1 $137 $56 $61 $104 reversed $75 $-1 #
+straight-curve $-1 -1 $-1 424.0000000000000568 158 4 0 0 10 I I #
+coedge $-1 -1 $-1 $58 $138 $60 $103 reversed $70 $-1 #
+straight-curve $-1 -1 $-1 424.0000000000000568 0 4 0 0 -10 I I #
+coedge $-1 -1 $-1 $61 $60 $139 $140 forward $62 $-1 #
+edge $-1 -1 $-1 $64 42.40000000000000568 $141 43.20000000000000284 $100 $118 forward @7 unknown #
+edge $-1 -1 $-1 $142 0 $63 0.7999999999999971578 $98 $116 forward @7 unknown #
+face $143 -1 $-1 $110 $62 $5 $-1 $120 forward single #
+point $-1 -1 $-1 424.0000000000000568 158 8 #
+point $-1 -1 $-1 424.0000000000000568 0 8 #
+straight-curve $-1 -1 $-1 416.0000000000001137 158 4 0 10 0 I I #
+coedge $-1 -1 $-1 $144 $68 $91 $131 forward $70 $-1 #
+face $145 -1 $-1 $113 $70 $5 $-1 $146 forward single #
+point $-1 -1 $-1 416.0000000000001137 0 4 #
+coedge $-1 -1 $-1 $74 $147 $90 $130 forward $75 $-1 #
+face $148 -1 $-1 $149 $75 $5 $-1 $150 forward single #
+point $-1 -1 $-1 416.0000000000001137 158 4 #
+vertex $-1 -1 $-1 $92 $151 #
+straight-curve $-1 -1 $-1 432 158 8 -10 0 0 I I #
+vertex $-1 -1 $-1 $92 $152 #
+straight-curve $-1 -1 $-1 0 0 8 10 0 0 I I #
+DXID-attrib $-1 -1 $-1 $-1 $81 @10 ASM ENTITY @1 7 #
+plane-surface $-1 -1 $-1 216 79 8 0 0 1 10 0 0 forward_v I I I I #
+DXID-attrib $-1 -1 $-1 $-1 $85 @10 ASM ENTITY @1 6 #
+loop $-1 -1 $-1 $-1 $127 $85 #
+coedge $-1 -1 $-1 $153 $154 $144 $155 reversed $86 $-1 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $88 @17 sketch_attrib_def 1 1 3 @13 125 0 1 0 1 1 #
+coedge $-1 -1 $-1 $156 $88 $157 $158 reversed $49 $-1 #
+coedge $-1 -1 $-1 $88 $156 $159 $160 reversed $49 $-1 #
+coedge $-1 -1 $-1 $161 $162 $88 $128 forward $122 $-1 #
+edge $-1 -1 $-1 $163 -3.950000000000000178 $164 11.85000000000000142 $127 $165 forward @7 unknown #
+coedge $-1 -1 $-1 $91 $90 $153 $166 forward $28 $-1 #
+edge $-1 -1 $-1 $167 0 $115 0.4000000000000000222 $112 $168 forward @7 unknown #
+edge $-1 -1 $-1 $117 -0.4000000000000000222 $169 0 $109 $170 forward @7 unknown #
+straight-curve $-1 -1 $-1 16.00000000000001421 118.5000000000000142 8 0 -10 0 I I #
+straight-curve $-1 -1 $-1 426.0000000000001137 158 4 10 0 0 I I #
+straight-curve $-1 -1 $-1 210.0000000000000284 0 4 -10 -0 -0 I I #
+point $-1 -1 $-1 424.0000000000000568 158 4 #
+point $-1 -1 $-1 424.0000000000000568 0 4 #
+coedge $-1 -1 $-1 $171 $98 $172 $173 reversed $75 $-1 #
+coedge $-1 -1 $-1 $100 $174 $175 $176 forward $70 $-1 #
+coedge $-1 -1 $-1 $175 $172 $102 $140 reversed $177 $-1 #
+edge $-1 -1 $-1 $141 0 $142 15.80000000000000071 $139 $178 forward @7 unknown #
+vertex $-1 -1 $-1 $103 $179 #
+vertex $-1 -1 $-1 $140 $180 #
+DXID-attrib $-1 -1 $-1 $-1 $105 @10 ASM ENTITY @1 8 #
+coedge $-1 -1 $-1 $157 $109 $123 $155 forward $70 $-1 #
+DXID-attrib $-1 -1 $-1 $-1 $110 @10 ASM ENTITY @1 9 #
+plane-surface $-1 -1 $-1 0 0 0 0 -1 0 10 0 0 forward_v I I I I #
+coedge $-1 -1 $-1 $112 $159 $181 $182 forward $75 $-1 #
+DXID-attrib $-1 -1 $-1 $-1 $113 @10 ASM ENTITY @2 10 #
+face $183 -1 $-1 $184 $177 $5 $-1 $185 forward single #
+plane-surface $-1 -1 $-1 432 158 0 0 1 0 -10 0 0 forward_v I I I I #
+point $-1 -1 $-1 16 158 8 #
+point $-1 -1 $-1 16 0 8 #
+coedge $-1 -1 $-1 $181 $123 $129 $166 reversed $86 $-1 #
+coedge $-1 -1 $-1 $123 $181 $156 $186 reversed $86 $-1 #
+edge $-1 -1 $-1 $169 -1 $187 -0.1999999999999999556 $144 $188 forward @7 unknown #
+coedge $-1 -1 $-1 $126 $125 $154 $186 forward $49 $-1 #
+coedge $-1 -1 $-1 $189 $144 $125 $158 forward $70 $-1 #
+edge $-1 -1 $-1 $187 0 $163 0.4000000000000000222 $157 $190 forward @7 unknown #
+coedge $-1 -1 $-1 $147 $191 $126 $160 forward $75 $-1 #
+edge $-1 -1 $-1 $164 -0.4000000000000000222 $192 0 $159 $193 forward @7 unknown #
+coedge $-1 -1 $-1 $194 $127 $191 $195 forward $122 $-1 #
+coedge $-1 -1 $-1 $127 $194 $189 $196 forward $122 $-1 #
+vertex $-1 -1 $-1 $128 $197 #
+vertex $-1 -1 $-1 $128 $198 #
+straight-curve $-1 -1 $-1 8.000000000000007105 39.5 8 0 10 0 I I #
+edge $-1 -1 $-1 $167 0 $169 15.80000000000000071 $129 $199 forward @7 unknown #
+vertex $-1 -1 $-1 $130 $200 #
+straight-curve $-1 -1 $-1 16.00000000000001421 158 4 0 0 10 I I #
+vertex $-1 -1 $-1 $166 $201 #
+straight-curve $-1 -1 $-1 16 0 4 0 0 -10 I I #
+coedge $202 -1 $-1 $203 $137 $204 $205 forward $75 $-1 #
+coedge $-1 -1 $-1 $139 $206 $137 $173 forward $177 $-1 #
+edge $-1 -1 $-1 $207 0 $142 0.8000000000000000444 $172 $208 forward @7 unknown #
+coedge $209 -1 $-1 $138 $210 $211 $212 forward $70 $-1 #
+coedge $-1 -1 $-1 $206 $139 $138 $176 reversed $177 $-1 #
+edge $-1 -1 $-1 $213 0 $141 0.8000000000000000444 $138 $214 forward @7 unknown #
+loop $-1 -1 $-1 $-1 $206 $149 #
+straight-curve $-1 -1 $-1 432 0 8 0 10 0 I I #
+point $-1 -1 $-1 432 0 8 #
+point $-1 -1 $-1 432 158 8 #
+coedge $-1 -1 $-1 $154 $153 $147 $182 reversed $86 $-1 #
+edge $-1 -1 $-1 $192 -21.40000000000000213 $167 -20.60000000000000142 $147 $215 forward @7 unknown #
+DXID-attrib $-1 -1 $-1 $-1 $149 @10 ASM ENTITY @2 11 #
+face $216 -1 $-1 $217 $218 $5 $-1 $219 forward single #
+plane-surface $-1 -1 $-1 432 0 0 1 0 0 0 10 0 forward_v I I I I #
+edge $-1 -1 $-1 $187 0 $192 15.80000000000000071 $156 $220 forward @7 unknown #
+vertex $-1 -1 $-1 $158 $221 #
+straight-curve $-1 -1 $-1 6.000000000000000888 0 4 -10 -0 -0 I I #
+coedge $-1 -1 $-1 $210 $157 $162 $196 reversed $70 $-1 #
+straight-curve $-1 -1 $-1 8 0 4 0 0 10 I I #
+coedge $-1 -1 $-1 $159 $203 $161 $195 reversed $75 $-1 #
+vertex $-1 -1 $-1 $186 $222 #
+straight-curve $-1 -1 $-1 7.999999999999971578 158 4 0 0 -10 I I #
+coedge $-1 -1 $-1 $162 $161 $223 $224 forward $122 $-1 #
+edge $-1 -1 $-1 $164 42.40000000000000568 $225 43.20000000000000284 $191 $116 forward @7 unknown #
+edge $-1 -1 $-1 $226 0 $163 0.8000000000000000444 $189 $118 forward @7 unknown #
+point $-1 -1 $-1 8 0 8 #
+point $-1 -1 $-1 8 158 8 #
+straight-curve $-1 -1 $-1 16 158 4 0 -10 0 I I #
+point $-1 -1 $-1 16 158 4 #
+point $-1 -1 $-1 16 0 4 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $171 @17 sketch_attrib_def 1 1 3 @13 107 0 0 0 1 1 #
+coedge $-1 -1 $-1 $191 $171 $227 $228 forward $75 $-1 #
+coedge $229 -1 $-1 $230 $231 $171 $205 reversed $232 $-1 #
+edge $-1 -1 $-1 $207 0 $233 43.20000000000000284 $171 $234 forward @7 unknown #
+coedge $235 -1 $-1 $172 $175 $230 $236 forward $177 $-1 #
+vertex $-1 -1 $-1 $173 $237 #
+straight-curve $-1 -1 $-1 432 158 0 0 0 10 I I #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $174 @17 sketch_attrib_def 1 1 3 @13 105 0 0 0 1 1 #
+coedge $-1 -1 $-1 $174 $189 $238 $239 reversed $70 $-1 #
+coedge $240 -1 $-1 $231 $230 $174 $212 reversed $232 $-1 #
+edge $-1 -1 $-1 $241 0 $213 43.20000000000000284 $174 $242 forward @7 unknown #
+vertex $-1 -1 $-1 $212 $243 #
+straight-curve $-1 -1 $-1 432 0 0 0 0 10 I I #
+straight-curve $-1 -1 $-1 222.0000000000000284 158 4 10 0 0 I I #
+DXID-attrib $-1 -1 $-1 $-1 $184 @10 ASM ENTITY @2 12 #
+face $244 -1 $-1 $-1 $232 $5 $-1 $245 reversed single #
+loop $-1 -1 $-1 $-1 $246 $184 #
+plane-surface $-1 -1 $-1 0 158 0 -1 0 0 0 -10 0 forward_v I I I I #
+straight-curve $-1 -1 $-1 8 0 4 0 10 0 I I #
+point $-1 -1 $-1 8 0 4 #
+point $-1 -1 $-1 8 158 4 #
+coedge $-1 -1 $-1 $227 $238 $194 $224 reversed $218 $-1 #
+edge $-1 -1 $-1 $225 0 $226 15.80000000000000071 $223 $247 forward @7 unknown #
+vertex $-1 -1 $-1 $195 $248 #
+vertex $-1 -1 $-1 $224 $249 #
+coedge $-1 -1 $-1 $246 $223 $203 $228 reversed $218 $-1 #
+edge $-1 -1 $-1 $233 0 $225 0.8000000000000000444 $227 $250 forward @7 unknown #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $204 @17 sketch_attrib_def 1 1 3 @13 107 0 0 0 1 1 #
+coedge $251 -1 $-1 $211 $204 $206 $236 reversed $232 $-1 #
+coedge $252 -1 $-1 $204 $211 $246 $253 reversed $232 $-1 #
+loop $-1 -1 $-1 $-1 $231 $217 #
+vertex $-1 -1 $-1 $205 $254 #
+straight-curve $-1 -1 $-1 432 158 0 -10 0 0 F 0 F 43.20000000000000284 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $206 @17 sketch_attrib_def 1 1 3 @13 106 0 0 0 1 1 #
+edge $-1 -1 $-1 $213 0 $207 15.80000000000000071 $206 $255 forward @7 unknown #
+point $-1 -1 $-1 432 158 0 #
+coedge $-1 -1 $-1 $223 $246 $210 $239 forward $218 $-1 #
+edge $-1 -1 $-1 $241 0 $226 0.8000000000000000444 $238 $256 forward @7 unknown #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $211 @17 sketch_attrib_def 1 1 3 @13 105 0 0 0 1 1 #
+vertex $-1 -1 $-1 $239 $257 #
+straight-curve $-1 -1 $-1 0 0 0 10 0 0 F 0 F 43.20000000000000284 #
+point $-1 -1 $-1 432 0 0 #
+DXID-attrib $-1 -1 $-1 $-1 $217 @10 ASM ENTITY @2 13 #
+plane-surface $-1 -1 $-1 216 79 0 0 0 1 10 0 0 forward_v I I I I #
+coedge $258 -1 $-1 $238 $227 $231 $253 forward $218 $-1 #
+straight-curve $-1 -1 $-1 0 158 8 0 -10 0 I I #
+point $-1 -1 $-1 0 158 8 #
+point $-1 -1 $-1 0 0 8 #
+straight-curve $-1 -1 $-1 0 158 0 0 0 10 I I #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $230 @17 sketch_attrib_def 1 1 3 @13 106 0 0 0 1 1 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $231 @17 sketch_attrib_def 1 1 3 @13 108 0 0 0 1 1 #
+edge $-1 -1 $-1 $233 0 $241 15.80000000000000071 $246 $259 forward @7 unknown #
+point $-1 -1 $-1 0 158 0 #
+straight-curve $-1 -1 $-1 432 0 0 0 10 0 F 0 F 15.80000000000000071 #
+straight-curve $-1 -1 $-1 0 0 0 0 0 10 I I #
+point $-1 -1 $-1 0 0 0 #
+ATTRIB_CUSTOM-attrib $-1 -1 $-1 $-1 $246 @17 sketch_attrib_def 1 1 3 @13 108 0 0 0 1 1 #
+straight-curve $-1 -1 $-1 0 158 0 0 -10 0 F 0 F 15.80000000000000071 #
+End-of-ACIS-data 
