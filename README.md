@@ -1,6 +1,8 @@
 # Phantom
 
-Find the Phantom CAD files within this document
+Find the Phantom CAD files (sat,sab,stl,stp) within this document
+
+chose the filetype you need for your simulation software
 
 For the simulated phantom: 
 
