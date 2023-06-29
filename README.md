@@ -17,9 +17,9 @@ density=1180kg/m^3
   
 Phantom_Solution:
 
-rel. Permittivity=60
+rel. Permittivity=59
 
-conductivity=0.8S/m
+conductivity=0.83S/m
 
 density=1058kg/m^3
 
