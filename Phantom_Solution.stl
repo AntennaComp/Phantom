@@ -1,0 +1,86 @@
+solid Phantom:Phantom
+  facet normal 1.631812e-41 3.645508e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal -4.474325e+15 -3.625977e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal -2.398480e+15 4.132324e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.630971e-41 3.674805e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.625366e-41 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal -7.887495e+14 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 2.132916e-41 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal -3.551508e+16 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal -4.034526e+15 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 -3.400391e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.627188e-41 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+endsolid Phantom:Phantom

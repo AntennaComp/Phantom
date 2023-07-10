@@ -1,0 +1,170 @@
+solid Phantom:Plexiglas
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 2.773438e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 3.238281e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 2.868318e-41 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.619060e-41 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 2.598428e-41 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal -8.139491e+15 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal -3.577139e+15 -3.082031e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 3.322266e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 -2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 -2.000000e+02
+      vertex -2.400000e+01 -1.500000e+02 -2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.930149e-41 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.400000e+01 -1.500000e+02 2.000000e+02
+      vertex -1.740000e+02 -1.500000e+02 2.000000e+02
+      vertex -2.400000e+01 1.500000e+02 2.000000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 1.580000e+02 2.080000e+02
+      vertex -2.000000e+01 -1.580000e+02 -2.080000e+02
+      vertex -2.000000e+01 1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal 2.780737e-41 4.132324e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 -1.580000e+02 2.080000e+02
+      vertex -2.000000e+01 -1.580000e+02 -2.080000e+02
+      vertex -2.000000e+01 1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -1.820000e+02 1.580000e+02 2.080000e+02
+      vertex -2.000000e+01 1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal -2.855867e+15 3.694336e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 1.580000e+02 2.080000e+02
+      vertex -2.000000e+01 1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -1.820000e+02 -1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal 3.117889e-42 -3.478516e+00 0.000000e+00
+    outer loop
+      vertex -1.820000e+02 1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 -1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 -2.080000e+02
+      vertex -2.000000e+01 -1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.633634e-41 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -1.820000e+02 -1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 -2.080000e+02
+      vertex -2.000000e+01 -1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 4.127441e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 -1.580000e+02 -2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 -2.080000e+02
+      vertex -2.000000e+01 1.580000e+02 -2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.775319e+28 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 -1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 -1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+  facet normal 1.616958e-41 -3.263672e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 1.580000e+02 2.080000e+02
+      vertex -1.820000e+02 1.580000e+02 2.080000e+02
+      vertex -2.000000e+01 -1.580000e+02 2.080000e+02
+    endloop
+  endfacet
+endsolid Phantom:Plexiglas
