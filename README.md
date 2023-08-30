@@ -3,6 +3,7 @@
 Find the Phantom CAD files (sat,sab,stl,stp) within this document
 
 chose the filetype you need for your simulation software
+Warning: some files might reduce the PMMA casing to a simple block
 
 For the simulated phantom: 
 
